@@ -5,8 +5,8 @@ David Straub's life
 - 24/05/1992 First movie: "Beauty & the Beast"
 - 13/12/1992 First word: "Hi"
 - 24/02/1993 First crawl
-- 08/11/1993 Brother Jonathan born
 - 09/05/1993 First steps
+- 08/11/1993 Brother Jonathan born
 - 1994-06/2010 Homeschooled
 - 07/1994 First used a computer
 - 11/1994 Learned to read
