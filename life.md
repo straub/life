@@ -28,7 +28,7 @@ David Straub's life
 - 07/2010-~ ePrize
 - 07/2010-10/2010 Interface Development Intern
 - 11/2010-07/2012 Associate Software Engineer
-- 22/11/2010 Started dating Lauren Gravelyn
+- 22/11/2010 Started dating Lauren Gravelyn (again)
 - 09/01/2011 Charlotte born to Steve & Stephenie
 - 11/2011 Bought first car
 - 01/2012 ePrize Rookie of the Year, 2011
