@@ -18,8 +18,8 @@ David Straub's life
 - 07/10/2006 Brother Steve marries Stephenie
 - 09/2007-25/12/2007 Lived in Irvine, CA
 - 31/07/2008 Langdon (first nephew) born to Steve & Stephenie
-- 02/10/2008 Noah (godson) born to Pete & Mandy
 - 09/2008-06/2010 Took classes at Chelsea High School
+- 02/10/2008 Noah (godson) born to Pete & Mandy
 - 13/03/2009 First Facebook status
 - 22/05/2009 "Weird Law" speech at underclassmen awards
 - 17/04/2010 "Teenagers" speech at "Puttin' on the Hits"
