@@ -2,7 +2,7 @@ David Straub's life
 ===============
 
 - 16/04/1992 Born
-- ~1993 First word
+- 13/12/1992 First word: "Hi"
 - 08/11/1993 Brother Jonathan born
 - 1994-06/2010 Homeschooled
 - ~1995 Learned to read
@@ -10,6 +10,7 @@ David Straub's life
 - 09/10/2001 Grandpa Robbins passed away
 - 20/10/2001 Brother Pete marries Mandy
 - 26/07/2004 Kaitlyn (first niece) born to Pete & Mandy
+- 21/05/2006 Confirmed member of WELS Faith Evangelical Lutheran Church
 - 07/10/2006 Brother Steve marries Stephenie
 - 09/2007-25/12/2007 Lived in Irvine, CA
 - 31/07/2008 Langdon (first nephew) born to Steve & Stephenie
