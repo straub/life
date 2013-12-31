@@ -2,12 +2,16 @@ David Straub's life
 ===============
 
 - 16/04/1992 Born
+- 24/05/1992 First movie: "Beauty & the Beast"
 - 13/12/1992 First word: "Hi"
+- 24/02/1993 First crawl
 - 08/11/1993 Brother Jonathan born
+- 09/05/1993 First steps
 - 1994-06/2010 Homeschooled
-- ~1995 Learned to read
+- 07/1994 First used a computer
+- 11/1994 Learned to read
 - 29/05/1996 Brother James born
-- 09/10/2001 Grandpa Robbins passed away
+- 09/10/2001 Grandpa Robbins (maternal) passed away
 - 20/10/2001 Brother Pete marries Mandy
 - 26/07/2004 Kaitlyn (first niece) born to Pete & Mandy
 - 21/05/2006 Confirmed member of WELS Faith Evangelical Lutheran Church
@@ -31,4 +35,3 @@ David Straub's life
 - 16/07/2012 Moved to Royal Oak, MI
 - 08/2012-~ Software Engineer
 - 01/2013 ePrize Knowledge Award, 2012 - Top 5
-
