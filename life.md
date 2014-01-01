@@ -1,37 +1,37 @@
 David Straub's life
 ===============
 
-- 16/04/1992 Born
-- 24/05/1992 First movie: "Beauty & the Beast"
-- 13/12/1992 First word: "Hi"
-- 24/02/1993 First crawl
-- 09/05/1993 First steps
-- 08/11/1993 Brother Jonathan born
-- 1994-06/2010 Homeschooled
-- 07/1994 First used a computer
-- 11/1994 Learned to read
-- 29/05/1996 Brother James born
-- 09/10/2001 Grandpa Robbins (maternal) passed away
-- 20/10/2001 Brother Pete marries Mandy
-- 26/07/2004 Kaitlyn (first niece) born to Pete & Mandy
-- 21/05/2006 Confirmed member of WELS Faith Evangelical Lutheran Church
-- 07/10/2006 Brother Steve marries Stephenie
-- 09/2007-25/12/2007 Lived in Irvine, CA
-- 31/07/2008 Langdon (first nephew) born to Steve & Stephenie
-- 09/2008-06/2010 Took classes at Chelsea High School
-- 02/10/2008 Noah (godson) born to Pete & Mandy
-- 13/03/2009 First Facebook status
-- 22/05/2009 "Weird Law" speech at underclassmen awards
-- 17/04/2010 "Teenagers" speech at "Puttin' on the Hits"
-- 18/04/2010 Announced homecoming court candidates at game
-- 22/06/2010 Owen born to Pete & Mandy
-- 07/2010-~ ePrize
-- 07/2010-10/2010 Interface Development Intern
-- 11/2010-07/2012 Associate Software Engineer
-- 22/11/2010 Started dating Lauren Gravelyn (again)
-- 09/01/2011 Charlotte born to Steve & Stephenie
-- 11/2011 Bought first car
-- 01/2012 ePrize Rookie of the Year, 2011
-- 16/07/2012 Moved to Royal Oak, MI
-- 08/2012-~ Software Engineer
-- 01/2013 ePrize Knowledge Award, 2012 - Top 5
+- 1992/04/16 Born
+- 1992/05/24 First movie: "Beauty & the Beast"
+- 1992/12/13 First word: "Hi"
+- 1993/02/24 First crawl
+- 1993/05/09 First steps
+- 1993/11/08 Brother Jonathan born
+- 1994-2010/06 Homeschooled
+- 1994/07 First used a computer
+- 1994/11 Learned to read
+- 1996/05/29 Brother James born
+- 2001/10/09 Grandpa Robbins (maternal) passed away
+- 2001/10/20 Brother Pete marries Mandy
+- 2004/07/26 Kaitlyn (first niece) born to Pete & Mandy
+- 2006/05/21 Confirmed member of WELS Faith Evangelical Lutheran Church
+- 2006/10/07 Brother Steve marries Stephenie
+- 2007/09-2007/12/25 Lived in Irvine, CA
+- 2008/07/31 Langdon (first nephew) born to Steve & Stephenie
+- 2008/09-2010/06 Took classes at Chelsea High School
+- 2008/10/02 Noah (godson) born to Pete & Mandy
+- 2009/03/13 First Facebook status
+- 2009/05/22 "Weird Law" speech at underclassmen awards
+- 2010/04/17 "Teenagers" speech at "Puttin' on the Hits"
+- 2010/04/18 Announced homecoming court candidates at game
+- 2010/06/22 Owen born to Pete & Mandy
+- 2010/07-~ ePrize
+- 2010/07-2010/10 Interface Development Intern
+- 2010/11-2012/07 Associate Software Engineer
+- 2010/11/22 Started dating Lauren Gravelyn (again)
+- 2011/01/09 Charlotte born to Steve & Stephenie
+- 2011/11 Bought first car
+- 2012/01 ePrize Rookie of the Year, 2011
+- 2012/07/16 Moved to Royal Oak, MI
+- 2012/08-~ Software Engineer
+- 2013/01 ePrize Knowledge Award, 2012 - Top 5
