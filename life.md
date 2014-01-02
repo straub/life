@@ -23,6 +23,7 @@ David Straub's life
 - 2008/12/23 First tweet
 - 2009/03/13 First Facebook status
 - 2009/05/22 "Weird Law" speech at underclassmen awards
+- 2010/02-2010/03 First computer build
 - 2010/04/17 "Teenagers" speech at "Puttin' on the Hits"
 - 2010/04/18 Announced homecoming court candidates at game
 - 2010/06/22 Owen born to Pete & Mandy
