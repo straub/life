@@ -20,6 +20,7 @@ David Straub's life
 - 2008/07/31 Langdon (first nephew) born to Steve & Stephenie
 - 2008/09-2010/06 Took classes at Chelsea High School
 - 2008/10/02 Noah (godson) born to Pete & Mandy
+- 2008/12/23 First tweet
 - 2009/03/13 First Facebook status
 - 2009/05/22 "Weird Law" speech at underclassmen awards
 - 2010/04/17 "Teenagers" speech at "Puttin' on the Hits"
