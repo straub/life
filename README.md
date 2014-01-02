@@ -77,3 +77,5 @@ License
 -------
 
 [MIT](http://straub.mit-license.org/)
+
+![Analytics](https://analytics.straubdev.com/piwik.php?idsite=6&rec=1&action_name=life%2FREADME)
