@@ -27,7 +27,7 @@ David Straub's life
 - 2010/04/17 "Teenagers" speech at "Puttin' on the Hits"
 - 2010/04/18 Announced homecoming court candidates at game
 - 2010/06/22 Owen born to Pete & Mandy
-- 2010/07-~ ePrize
+- 2010/07-2014/01/15 ePrize
 - 2010/07-2010/10 Interface Development Intern
 - 2010/11-2012/07 Associate Software Engineer
 - 2010/11/22 Started dating Lauren Gravelyn
@@ -37,3 +37,5 @@ David Straub's life
 - 2012/07/16 Moved to Royal Oak, MI
 - 2012/08-~ Software Engineer
 - 2013/01 ePrize Knowledge Award, 2012 - Top 5
+- 2014/01/16-~ HelloWorld (formerly ePrize)
+
