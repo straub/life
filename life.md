@@ -22,6 +22,7 @@ David Straub's life
 - 2008/10/02 Noah (godson) born to Pete & Mandy
 - 2008/12/23 First tweet
 - 2009/03/13 First Facebook status
+- 2009/05/03 Took third place in class-BCD Oratory at state Forensics competition
 - 2009/05/22 "Weird Law" speech at underclassmen awards
 - 2010/02-2010/03 First computer build
 - 2010/04/17 "Teenagers" speech at "Puttin' on the Hits"
